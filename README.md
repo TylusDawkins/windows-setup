@@ -60,7 +60,7 @@ Select use bundled OpenSSH.
 
 Select use the OpenSSL library.
 
-![image](https://user-images.githubusercontent.com/100214696/214722127-dea1c928-dd2d-47f3-a694-a8898a38683b.png)
+![image](https://user-images.githubusercontent.com/100214696/230503485-3c09500e-573e-4230-91a1-4d3168408152.png)
 
 ## Configuring the line ending conversations.
 
